@@ -1,5 +1,4 @@
-# RoadSurface
-Road Surface Type Project
+# Mapping Road Surface Type of Kenya Using OpenStreetMap and High-resolution Google Satellite Imagery
 file content:
 
 	1.candidate points shpfile ----- a shapefile of candidate points generated from pre-treated OSM road data.
